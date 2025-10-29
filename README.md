@@ -1,6 +1,6 @@
-# Hi, I'm GiGi Molki  👋
+# Hi, I'm GiGi Koneti  👋
 
-🎓 First-year engineering student at **BMS College of Engineering**  
+🎓 First-year engineering student at **Dayanand Sagar College of Engineering**  
 🎯 Aspiring **HFT ML Engineer** | AI Researcher | Portfolio Intelligence Enthusiast  
 📍 Based in Bengaluru, India
 
@@ -36,7 +36,7 @@ I believe in mastering the fundamentals, learning from first principles, and gra
 
 ## 📚 Current Projects
 
-- 🔬 [Dimensionality Reduction Techniques](https://github.com/your-profile/dimensionality-reduction-techniques) – Implementations of PCA, LDA, t-SNE, UMAP, and more with math + code  
+-  – Implementations of PCA, LDA, t-SNE, UMAP, and more with math + code  
 - 📊 **ENVISTA** – ESG portfolio optimization using ML + NLP  
 - 🧠 **Multi-Agent HFT System** – Real-time market intelligence with intelligent agents
 
@@ -50,7 +50,7 @@ I believe in mastering the fundamentals, learning from first principles, and gra
 
 ## 📫 Let’s Connect
 
-- 📩 Email: gigimolki.ai@gmail.com  
+- 📩 Email: gigikoneti@gmail.com  
 - 💼 LinkedIn: (https://www.linkedin.com/in/gigimolki)  
 - 🧠 GitHub: (https://github.com/GiGiMolki)
 
