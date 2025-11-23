@@ -16,7 +16,7 @@
 
 #  About Me
 
-I’m a research-driven **AI Engineer** and **AI-powered Quant enthusiast** with strong foundations in DSA (Rank 27/250 in Point Blank Recruitment)  [oai_citation:1‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38), multi-agent systems, backend engineering, and automation.
+I’m a research-driven **AI Engineer** and **AI-powered Quant enthusiast** with strong foundations in  multi-agent systems, backend engineering, and automation.
 
 I specialize in:
 - Structuring **LLM-based multi-agent intelligence**
@@ -25,7 +25,7 @@ I specialize in:
 - Researching **non-determinism & hallucination** in LLMs
 
 I’m building toward a long-term path:
-**AI Engineering → Oxford → Quant/HFT Engineer → HFT Trader → Portfolio Manager → Founder of an AI Quant Fund**  [oai_citation:2‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38).
+**AI Engineering → Oxford → Quant/HFT Engineer → HFT Trader → Portfolio Manager → Founder of an AI Quant Fund**  
 
 ---
 
@@ -33,15 +33,12 @@ I’m building toward a long-term path:
 
 ###  Multi-Agent Orchestration Framework (RNSIT Hackathon)
 LLM-driven multi-agent system with structured task delegation, reasoning pipelines, API tools & Dockerized deployment.  
-*(Resume → Major Projects)*  [oai_citation:3‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
+
 
 ###  GiGi Kernel — DSCE Research Podcast  
 A research-first podcast exploring AI intuition, cognition, innovation & academic journeys.  
-*(Resume execution plan)*  [oai_citation:4‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
-
 ###  Non-Determinism & LLM Hallucination (Research Assistance)  
 Assisting Vijay Shantagiri (ML Researcher) in analyzing non-deterministic LLM outputs & hallucination patterns.  
-*(Resume → Research section)*  [oai_citation:5‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ###  DSA Practice  
 300+ problems solved across Python, C, C++, & library-based DSA implementations.
@@ -70,7 +67,6 @@ Assisting Vijay Shantagiri (ML Researcher) in analyzing non-deterministic LLM ou
 - API Integrations  
 - Workflow Bots  
 - Chrome Extensions  
-*(From resume → Tools & Automation)*  [oai_citation:6‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ---
 
@@ -78,11 +74,9 @@ Assisting Vijay Shantagiri (ML Researcher) in analyzing non-deterministic LLM ou
 
 ### 🥇 The Calculus of Cognition — Award-Winning Seminar  
 Explored biological neurons → ANN math → gradient descent → backpropagation.  
- *(Page 1)*  [oai_citation:7‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ### 🧮 Mathematics of Data — Best Presentation  
 Explained image/audio/signal representation, TensorFlow paper insights, and DeepLizard-style CNN intuition.  
- *(Page 1)*  [oai_citation:8‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ### 🧵 Non-Determinism in LLMs — Research Assistance  
 Studying hallucination patterns & output non-determinism under ML researcher guidance.
@@ -96,7 +90,6 @@ LLM-driven agent systems with structured reasoning and modular backend architect
 
 ### 🔹 Global Superstore / Pizza Sales Analytics  
 SQL + Python analysis of trends, profitability drivers, & data intelligence.  
-*(Resume → Major Projects)*  [oai_citation:9‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ### 🔹 ANN From Scratch  
 Forward pass, gradients, optimization & numerical stability.
@@ -108,7 +101,7 @@ Forward pass, gradients, optimization & numerical stability.
 ### **Machine Learning Intern — Certisured, Bengaluru**  
 📅 *Jan 2025 – Jun 2025*  
 Worked on ML workflows, analytics, feature engineering, and early-stage deployments.  
-*(Page 1 Experience)*  [oai_citation:10‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
+
 
 ---
 
@@ -117,7 +110,6 @@ Worked on ML workflows, analytics, feature engineering, and early-stage deployme
 > *“To rise not by speed alone, but through depth, clarity, and timeless execution.”*
 
 Building toward becoming a **Deep Learning–powered HFT Engineer**, and eventually a **Portfolio Manager** crafting intelligent financial systems.  
-*(Resume → Long-Term Future Direction)*  [oai_citation:11‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ---
 
