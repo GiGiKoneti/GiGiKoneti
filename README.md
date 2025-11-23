@@ -1,97 +1,127 @@
 <!-- ======================================= -->
-<!--         MULTI-AGENT DARK BANNER         -->
+<!--            DARK MULTI-AGENT BANNER      -->
 <!-- ======================================= -->
 
-
 <h1 align="center">✨ GiGi Koneti ✨</h1>
-<h3 align="center">AI Researcher • Aspiring HFT ML Engineer • Portfolio Intelligence Explorer</h3>
+<h3 align="center">AI Engineer • Research Podcast Host • AI-Powered Quant & HFT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dark_Mode-Always_On-000000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/AI-Research-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HFT-Engineer-22d3ee?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSCE-Bengaluru-14b8a6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Engineer-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quant-HFT-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Mindset-fbbf24?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSCE-Bangalore-14b8a6?style=for-the-badge" />
 </p>
 
 ---
 
-# 🧠 **Mission**
+#  About Me
 
-To engineer intelligent market systems powered by **mathematical reasoning, deep AI intuition, and clean data architecture** — evolving loop-by-loop through the **Solenoid Study Method**.
+I’m a research-driven **AI Engineer** and **AI-powered Quant enthusiast** with strong foundations in DSA (Rank 27/250 in Point Blank Recruitment)  [oai_citation:1‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38), multi-agent systems, backend engineering, and automation.
 
-I aim to build the next generation of **AI-augmented HFT models**, combining DL, LLMs, and multi-agent intelligence.
+I specialize in:
+- Structuring **LLM-based multi-agent intelligence**
+- Building **end-to-end AI systems** with FastAPI, Docker, Pydantic & Streamlit
+- Practicing consistent **DSA** (300+ problems)
+- Researching **non-determinism & hallucination** in LLMs
 
----
-
-# 🔭 **Currently Building**
-
-### 🤖 **PROBE — The Socratic Tutor System (Semester Project)**  
-A multi-LLM integrated tutor designed to ask, refine, guide, and Socratically evaluate student understanding.
-
-### 🎙 **GiGi Kernel — DSCE Research Podcast**  
-A student-led research channel exploring AI intuitions, academic journeys, cognition, and innovation.
-
-### 🧩 Practicing **DSA** consistently  
-### 🌍 Preparing for **GSoC** & **LFX Mentorship**  
+I’m building toward a long-term path:
+**AI Engineering → Oxford → Quant/HFT Engineer → HFT Trader → Portfolio Manager → Founder of an AI Quant Fund**  [oai_citation:2‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38).
 
 ---
 
-# 🧘 **Tech Stack & Skills**
+#  Currently Building
 
-### 🔹 **Languages**
-- Python, SQL  
+###  Multi-Agent Orchestration Framework (RNSIT Hackathon)
+LLM-driven multi-agent system with structured task delegation, reasoning pipelines, API tools & Dockerized deployment.  
+*(Resume → Major Projects)*  [oai_citation:3‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
-### 🔹 **AI / Data Stack**
-- NumPy • Pandas • Matplotlib • Seaborn  
-- Scikit-learn  
-- 🔜 PyTorch, HuggingFace Transformers  
+###  GiGi Kernel — DSCE Research Podcast  
+A research-first podcast exploring AI intuition, cognition, innovation & academic journeys.  
+*(Resume execution plan)*  [oai_citation:4‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
-### 🔹 **Math Foundations**
-- Probability • Statistics  
-- Linear Algebra  
-- Calculus for Optimization  
-- Dimensionality Reduction  
+###  Non-Determinism & LLM Hallucination (Research Assistance)  
+Assisting Vijay Shantagiri (ML Researcher) in analyzing non-deterministic LLM outputs & hallucination patterns.  
+*(Resume → Research section)*  [oai_citation:5‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
-### 🔹 **Tools**
-- Git, GitHub  
-- Jupyter, VS Code  
-- 🔜 Cloud, Kafka, LangChain, OpenAI Swarm  
+###  DSA Practice  
+300+ problems solved across Python, C, C++, & library-based DSA implementations.
 
 ---
 
-# 🔬 **Seminars Delivered**
+#  Tech Stack
 
-### 🥇 **Mathematics of Data**  
-Won *Best Presentation Award*.  
-Covered Eigen intuition, projections, vector spaces, and geometry of data.
+### **Languages & CS**
+- Python, C++, SQL
+- Strong DSA fundamentals (300+ problems solved)
 
-### 🧬 **The Calculus of Cognition**  
-A conceptual journey from biological neurons → perceptrons → deep learning → backpropagation.
+### **AI & ML**
+- ML/DL pipelines  
+- ANN & Backpropagation  
+- EDA & Feature Engineering  
+- Multi-Agent Systems  
+- LLM Orchestration  
+
+### **Backend & Deployment**
+- FastAPI, Flask, Streamlit  
+- Pydantic (schema validation)  
+- Docker (reproducible builds)
+
+### **Automation**
+- API Integrations  
+- Workflow Bots  
+- Chrome Extensions  
+*(From resume → Tools & Automation)*  [oai_citation:6‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ---
 
-# 📚 **Key Projects**
+# 🔬 Seminars & Research
 
-### 🔹 **1. Artificial Neural Network — From Scratch**  
-Forward pass, gradients, loss optimization, numerical stability.
+### 🥇 The Calculus of Cognition — Award-Winning Seminar  
+Explored biological neurons → ANN math → gradient descent → backpropagation.  
+ *(Page 1)*  [oai_citation:7‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
-### 🔹 **2. Pizza Sales & Performance Analytics (SQL)**  
-Revenue intelligence, operational insights, and relational modeling.
+### 🧮 Mathematics of Data — Best Presentation  
+Explained image/audio/signal representation, TensorFlow paper insights, and DeepLizard-style CNN intuition.  
+ *(Page 1)*  [oai_citation:8‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
-### 🔹 **3. StoreSight — Global Superstore EDA**  
-Deep-dive analysis, trend discovery, segmentation, value metrics, visualization.
+### 🧵 Non-Determinism in LLMs — Research Assistance  
+Studying hallucination patterns & output non-determinism under ML researcher guidance.
 
 ---
 
-# 🧪 **Experience**
+#  Key Projects
+
+### 🔹 Multi-Agent Orchestration Framework (FastAPI + Docker)
+LLM-driven agent systems with structured reasoning and modular backend architecture.
+
+### 🔹 Global Superstore / Pizza Sales Analytics  
+SQL + Python analysis of trends, profitability drivers, & data intelligence.  
+*(Resume → Major Projects)*  [oai_citation:9‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
+
+### 🔹 ANN From Scratch  
+Forward pass, gradients, optimization & numerical stability.
+
+---
+
+#  Experience
 
 ### **Machine Learning Intern — Certisured, Bengaluru**  
-📅 *January 2025 – June 2025*  
-Worked on exploratory ML workflows, research modules, and data-driven educational content.
+📅 *Jan 2025 – Jun 2025*  
+Worked on ML workflows, analytics, feature engineering, and early-stage deployments.  
+*(Page 1 Experience)*  [oai_citation:10‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
 
 ---
 
-# 📊 **GitHub Analytics**
+#  My Vision
+
+> *“To rise not by speed alone, but through depth, clarity, and timeless execution.”*
+
+Building toward becoming a **Deep Learning–powered HFT Engineer**, and eventually a **Portfolio Manager** crafting intelligent financial systems.  
+*(Resume → Long-Term Future Direction)*  [oai_citation:11‡Koneti_Gireesh_Kumar_1stYear.pdf](sediment://file_00000000944c72098276193fefe0ac38)
+
+---
+
+#  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiGiKoneti&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
@@ -99,23 +129,15 @@ Worked on exploratory ML workflows, research modules, and data-driven educationa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiGiMolki&theme=tokyonight&hide_border=true" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiGiKoneti&theme=tokyonight&hide_border=true" width="60%">
 </p>
 
 ---
 
-# 🧭 **My Vision**
+# 🔗 Connect With Me
 
-> *“To rise not by speed alone, but by depth, clarity, and timeless execution.”*
-
-Building toward becoming a **Deep Learning–powered HFT Engineer**, and eventually, a **Portfolio Manager** crafting intelligent, self-evolving financial systems.
-
----
-
-# 🔗 **Connect With Me**
-
-📩 Email: **gigikoneti@gmail.com**  
-🔗 X Twitter : https://x.com/GiGiKoneti
+📩 Email: **gigimolki@gmail.com**  
+🐦 X (Twitter): **https://x.com/GiGiKoneti**  
 💻 GitHub: **https://github.com/GiGiKoneti**
 
 ---
